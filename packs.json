@@ -1,0 +1,9 @@
+{
+    "test pack": {
+        "sprites": ["Sprite1"],
+        "namespace": "testPack",
+        "credits": [
+            "0znzw"
+        ]
+    }
+}
