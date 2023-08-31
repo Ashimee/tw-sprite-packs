@@ -1,7 +1,6 @@
 {
     "test pack": {
-        "sprites": ["Sprite1"],
-        "namespace": "testPack",
+        "icon": "url",
         "credits": [
             "0znzw"
         ]
